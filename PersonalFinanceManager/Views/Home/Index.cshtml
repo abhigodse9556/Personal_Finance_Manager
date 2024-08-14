@@ -1,0 +1,86 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="title">Personal Finance Tracker</h1>
+        <p class="lead">An application that allows users to track their income, expenses, and budgets. Provided features for generating reports and visualizing financial data.</p>
+        <p><ul style="list-style: none"><li>@Html.ActionLink("Learn More", "About", "Home", new { area = "" }, new { @class = "btn btn-primary btn-md" })</li></ul></p>
+    </section>
+
+    <div class="row">
+        <section class="col-md-4" aria-labelledby="feature1">
+            <h2 id="feature1">Expense Tracking</h2>
+            <p>
+                Easily record and categorize your expenses to keep track of where your money is going.
+            </p>
+            <p>
+                <ul>
+                    <li>Add and edit expense entries with details like amount, date, and category.</li>
+                    <li>Attach receipts or notes to each expense for better tracking.</li>
+                </ul>
+            </p>
+        </section>
+        <section class="col-md-4" aria-labelledby="feature2">
+            <h2 id="feature2">Income Tracking</h2>
+            <p>
+                Keep track of all your sources of income to get a clear picture of your financial situation.
+            </p>
+            <p>
+                <ul>
+                    <li>Record income entries with details such as source, amount, and date.</li>
+                    <li>View and analyze income trends over time.</li>
+                </ul>
+            </p>
+        </section>
+        <section class="col-md-4" aria-labelledby="feature3">
+            <h2 id="feature3">Budget Management</h2>
+            <p>
+                Set and manage budgets for different categories to stay within your financial limits.
+            </p>
+            <p>
+                <ul>
+                    <li>Create budgets for various expense categories (e.g., groceries, entertainment).</li>
+                    <li>Monitor your spending against your budget and get notifications when nearing limits.</li>
+                </ul>
+            </p>
+        </section>
+        <section class="col-md-4" aria-labelledby="feature4">
+            <h2 id="feature4">Financial Reports</h2>
+            <p>
+                Generate detailed reports to analyze your financial health and track progress towards your goals.
+            </p>
+            <p>
+                <ul>
+                    <li>Create and view reports such as expense summaries, income statements, and budget vs. actuals.</li>
+                    <li>Export reports to PDF or Excel for sharing and offline analysis.</li>
+                </ul>
+            </p>
+        </section>
+        <section class="col-md-4" aria-labelledby="feature5">
+            <h2 id="feature5">Customizable Categories</h2>
+            <p>
+                Tailor categories to fit your personal financial situation for better organization and tracking.
+            </p>
+            <p>
+                <ul>
+                    <li>Add, edit, or delete expense and income categories as needed.</li>
+                    <li>Use predefined or custom categories to classify your financial transactions.</li>
+                </ul>
+            </p>
+        </section>
+        <section class="col-md-4" aria-labelledby="feature6">
+            <h2 id="feature6">Goal Setting</h2>
+            <p>
+                Set financial goals and track your progress towards achieving them.
+            </p>
+            <p>
+                <ul>
+                    <li>Define short-term and long-term financial goals.</li>
+                    <li>Monitor progress and receive reminders to stay on track.</li>
+                </ul>
+            </p>
+        </section>
+    </div>
+</main>
