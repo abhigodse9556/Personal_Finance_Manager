@@ -46,6 +46,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Bogus, Version=35.6.0.0, Culture=neutral, PublicKeyToken=fa1bb3f3f218129a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bogus.35.6.0\lib\net40\Bogus.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -139,6 +142,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\ViewModels\CalculateBalance.cs" />
     <Compile Include="Models\Expens.cs">
       <DependentUpon>GlobalModel.tt</DependentUpon>
     </Compile>
@@ -214,6 +218,7 @@
     <Compile Include="Models\userInfo.cs">
       <DependentUpon>GlobalModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\ViewModels\UserTransactionCounts.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -365,6 +370,7 @@
     <Content Include="Views\Authentication\EditProfile.cshtml" />
     <Content Include="Views\Authentication\DeleteProfile.cshtml" />
     <Content Include="Views\Dashboard\TransactionHistory.cshtml" />
+    <Content Include="Views\Home\_UserCount.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

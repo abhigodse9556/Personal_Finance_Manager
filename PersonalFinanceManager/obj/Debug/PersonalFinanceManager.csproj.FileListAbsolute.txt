@@ -81,3 +81,5 @@ D:\NET_MVC_Project\PersonalFinanceManager\PersonalFinanceManager\bin\EntityFrame
 D:\NET_MVC_Project\PersonalFinanceManager\PersonalFinanceManager\bin\EntityFramework.SqlServer.dll
 D:\NET_MVC_Project\PersonalFinanceManager\PersonalFinanceManager\bin\EntityFramework.xml
 D:\NET_MVC_Project\PersonalFinanceManager\PersonalFinanceManager\bin\EntityFramework.SqlServer.xml
+D:\NET_MVC_Project\PersonalFinanceManager\PersonalFinanceManager\bin\Bogus.dll
+D:\NET_MVC_Project\PersonalFinanceManager\PersonalFinanceManager\bin\Bogus.xml

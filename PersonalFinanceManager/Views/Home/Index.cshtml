@@ -3,84 +3,58 @@
 }
 
 <main>
-    <section class="row" aria-labelledby="aspnetTitle">
-        <h1 id="title">Personal Finance Tracker</h1>
-        <p class="lead">An application that allows users to track their income, expenses, and budgets. Provided features for generating reports and visualizing financial data.</p>
-        <p><ul style="list-style: none"><li>@Html.ActionLink("Learn More", "About", "Home", new { area = "" }, new { @class = "btn btn-primary btn-md" })</li></ul></p>
-    </section>
 
-    <div class="row">
-        <section class="col-md-4" aria-labelledby="feature1">
-            <h2 id="feature1">Expense Tracking</h2>
-            <p>
-                Easily record and categorize your expenses to keep track of where your money is going.
-            </p>
-            <p>
-                <ul>
-                    <li>Add and edit expense entries with details like amount, date, and category.</li>
-                    <li>Attach receipts or notes to each expense for better tracking.</li>
-                </ul>
-            </p>
-        </section>
-        <section class="col-md-4" aria-labelledby="feature2">
-            <h2 id="feature2">Income Tracking</h2>
-            <p>
-                Keep track of all your sources of income to get a clear picture of your financial situation.
-            </p>
-            <p>
-                <ul>
-                    <li>Record income entries with details such as source, amount, and date.</li>
-                    <li>View and analyze income trends over time.</li>
-                </ul>
-            </p>
-        </section>
-        <section class="col-md-4" aria-labelledby="feature3">
-            <h2 id="feature3">Budget Management</h2>
-            <p>
-                Set and manage budgets for different categories to stay within your financial limits.
-            </p>
-            <p>
-                <ul>
-                    <li>Create budgets for various expense categories (e.g., groceries, entertainment).</li>
-                    <li>Monitor your spending against your budget and get notifications when nearing limits.</li>
-                </ul>
-            </p>
-        </section>
-        <section class="col-md-4" aria-labelledby="feature4">
-            <h2 id="feature4">Financial Reports</h2>
-            <p>
-                Generate detailed reports to analyze your financial health and track progress towards your goals.
-            </p>
-            <p>
-                <ul>
-                    <li>Create and view reports such as expense summaries, income statements, and budget vs. actuals.</li>
-                    <li>Export reports to PDF or Excel for sharing and offline analysis.</li>
-                </ul>
-            </p>
-        </section>
-        <section class="col-md-4" aria-labelledby="feature5">
-            <h2 id="feature5">Customizable Categories</h2>
-            <p>
-                Tailor categories to fit your personal financial situation for better organization and tracking.
-            </p>
-            <p>
-                <ul>
-                    <li>Add, edit, or delete expense and income categories as needed.</li>
-                    <li>Use predefined or custom categories to classify your financial transactions.</li>
-                </ul>
-            </p>
-        </section>
-        <section class="col-md-4" aria-labelledby="feature6">
-            <h2 id="feature6">Goal Setting</h2>
-            <p>
-                Set financial goals and track your progress towards achieving them.
-            </p>
-            <p>
-                <ul>
-                    <li>Define short-term and long-term financial goals.</li>
-                    <li>Monitor progress and receive reminders to stay on track.</li>
-                </ul>
-            </p>
-        </section>
+    <div class="d-flex">
+        <div class="container">
+            <section class="row" aria-labelledby="aspnetTitle">
+                <h1 id="title">Personal Finance Tracker</h1>
+                <p class="lead fs-4 fw-normal text-primary">An application that allows users to track their income, expenses, and budgets. Provided features for generating reports and visualizing financial data.</p>
+
+                <div class="my-5">
+                    @Html.ActionLink("Learn More", "About", "Home", new { area = "" }, new { @class = "btn btn-primary btn-md" })
+                </div>
+            </section>
+        </div>
+        <div class="container">
+            <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+                <div class="container">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="carousel-inner">
+                        <div class="carousel-item bg-transparent active" data-bs-interval="1500">
+                            <h1 class="text-center p-5">Take Control of Your Finances with Ease </h1>
+                            <div class="">
+                                <h5 class="text-center pb-5">Track Your Expenses, Manage Your Income, and Save Smarter.</h5>
+                            </div>
+                        </div>
+                        <div class="carousel-item bg-transparent" data-bs-interval="3000">
+                            <h1 class="text-center p-5">Simplify Your Financial Life</h1>
+                            <div class="">
+                                <h5 class="text-center pb-5">Your Personal Finance Manager for Budgeting, Planning, and Monitoring.</h5>
+                            </div>
+                        </div>
+                        <div class="carousel-item bg-transparent" data-bs-interval="">
+                            <h1 class="text-center p-5">Achieve Your Financial Goals</h1>
+                            <div class="">
+                                <h5 class="text-center pb-5">All-in-One Solution for Expense Tracking, Income Management, and More.</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+
+    <div class="container d-flex gap-5 g-5">
+        @{
+            var usercount = Html.Action("UserCount", "Home"); 
+            @Html.Raw(usercount); 
+        }
+    </div>
+
 </main>

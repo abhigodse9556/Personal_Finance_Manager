@@ -7,12 +7,3 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PersonalFinanceManager.Models
-{
-    public class GlobalModel
-    {
-        public decimal TotalIncome { get; set; }
-        public decimal TotalExpense { get; set; }
-        public decimal Balance => TotalIncome - TotalExpense;
-    }
-}

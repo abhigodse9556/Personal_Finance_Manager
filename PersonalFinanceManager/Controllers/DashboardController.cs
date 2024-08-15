@@ -1,4 +1,5 @@
 ﻿using PersonalFinanceManager.Models;
+using PersonalFinanceManager.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -51,7 +52,7 @@ namespace PersonalFinanceManager.Controllers
                                  .Sum() ?? 0;
 
 
-            var model = new GlobalModel
+            var model = new CalculateBalance
             {
                 TotalIncome = totalIncome,
                 TotalExpense = totalExpense

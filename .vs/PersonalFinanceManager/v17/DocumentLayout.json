@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "D:\\NET_MVC_Project\\PersonalFinanceManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\views\\authentication\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\authentication\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\views\\dashboard\\transactionhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\dashboard\\transactionhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|D:\\NET_MVC_Project\\PersonalFinanceManager\\personalfinancemanager\\views\\dashboard\\_walletbalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\dashboard\\_walletbalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\views\\shared\\_dashboardnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\shared\\_dashboardnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|D:\\NET_MVC_Project\\PersonalFinanceManager\\personalfinancemanager\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\views\\expense\\expenselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\expense\\expenselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|D:\\NET_MVC_Project\\PersonalFinanceManager\\personalfinancemanager\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|D:\\NET_MVC_Project\\PersonalFinanceManager\\personalfinancemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|D:\\NET_MVC_Project\\PersonalFinanceManager\\personalfinancemanager\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|D:\\NET_MVC_Project\\PersonalFinanceManager\\personalfinancemanager\\models\\globalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\models\\globalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\views\\expense\\editexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\expense\\editexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\views\\authentication\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\views\\authentication\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|d:\\net_mvc_project\\personalfinancemanager\\personalfinancemanager\\controllers\\userinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\controllers\\userinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|D:\\NET_MVC_Project\\PersonalFinanceManager\\personalfinancemanager\\models\\viewmodels\\calculatebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1545F11-2B45-4D25-88D4-237731DF39C5}|PersonalFinanceManager\\PersonalFinanceManager.csproj|solutionrelative:personalfinancemanager\\models\\viewmodels\\calculatebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PersonalFinanceManager\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T14:53:50.072Z",
               "IsPinned": true,
@@ -72,133 +64,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TransactionHistory.cs",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Models\\TransactionHistory.cs",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Models\\TransactionHistory.cs",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Models\\TransactionHistory.cs",
-              "RelativeToolTip": "PersonalFinanceManager\\Models\\TransactionHistory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T18:40:51.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TransactionHistory.cshtml",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Dashboard\\TransactionHistory.cshtml",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Dashboard\\TransactionHistory.cshtml",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Dashboard\\TransactionHistory.cshtml",
-              "RelativeToolTip": "PersonalFinanceManager\\Views\\Dashboard\\TransactionHistory.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAACOAAAA",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Authentication\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Authentication\\SignUp.cshtml",
+              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Authentication\\SignUp.cshtml",
+              "RelativeToolTip": "PersonalFinanceManager\\Views\\Authentication\\SignUp.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T18:15:00.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Dashboard\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Dashboard\\Dashboard.cshtml",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Dashboard\\Dashboard.cshtml",
-              "RelativeToolTip": "PersonalFinanceManager\\Views\\Dashboard\\Dashboard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T12:34:24.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_DashboardNavbar.cshtml",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Shared\\_DashboardNavbar.cshtml",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Shared\\_DashboardNavbar.cshtml",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Shared\\_DashboardNavbar.cshtml",
-              "RelativeToolTip": "PersonalFinanceManager\\Views\\Shared\\_DashboardNavbar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T11:37:14.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "PersonalFinanceManager\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAIwEcAAACiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:50:14.356Z",
+              "WhenOpened": "2024-08-15T13:09:24.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ExpenseList.cshtml",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Expense\\ExpenseList.cshtml",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Expense\\ExpenseList.cshtml",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Expense\\ExpenseList.cshtml",
-              "RelativeToolTip": "PersonalFinanceManager\\Views\\Expense\\ExpenseList.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T15:38:59.403Z",
-              "EditorCaption": ""
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Global.asax.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceManager\\Global.asax.cs",
+              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Global.asax.cs",
+              "RelativeToolTip": "PersonalFinanceManager\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:30:10.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExpenseController.cs",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\ExpenseController.cs",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Controllers\\ExpenseController.cs",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\ExpenseController.cs",
-              "RelativeToolTip": "PersonalFinanceManager\\Controllers\\ExpenseController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAmwCoAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceManager\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "PersonalFinanceManager\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T15:40:30.022Z",
+              "WhenOpened": "2024-08-14T16:07:36.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceManager\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PersonalFinanceManager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:59:14.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_WalletBalance.cshtml",
+              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Dashboard\\_WalletBalance.cshtml",
+              "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Dashboard\\_WalletBalance.cshtml",
+              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Dashboard\\_WalletBalance.cshtml",
+              "RelativeToolTip": "PersonalFinanceManager\\Views\\Dashboard\\_WalletBalance.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T15:57:54.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EditExpense.cshtml",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Expense\\EditExpense.cshtml",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Expense\\EditExpense.cshtml",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Expense\\EditExpense.cshtml",
-              "RelativeToolTip": "PersonalFinanceManager\\Views\\Expense\\EditExpense.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAswCQAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T15:50:03.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "userInfoesController.cs",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\userInfoesController.cs",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Controllers\\userInfoesController.cs",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\userInfoesController.cs",
-              "RelativeToolTip": "PersonalFinanceManager\\Controllers\\userInfoesController.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAowHcAAAAAAAAA",
+              "Title": "CalculateBalance.cs",
+              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Models\\ViewModels\\CalculateBalance.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceManager\\Models\\ViewModels\\CalculateBalance.cs",
+              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Models\\ViewModels\\CalculateBalance.cs",
+              "RelativeToolTip": "PersonalFinanceManager\\Models\\ViewModels\\CalculateBalance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T14:15:35.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T15:53:29.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EditProfile.cshtml",
-              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Authentication\\EditProfile.cshtml",
-              "RelativeDocumentMoniker": "PersonalFinanceManager\\Views\\Authentication\\EditProfile.cshtml",
-              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Views\\Authentication\\EditProfile.cshtml",
-              "RelativeToolTip": "PersonalFinanceManager\\Views\\Authentication\\EditProfile.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEcAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T14:42:47.798Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceManager\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PersonalFinanceManager\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:52:37.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalModel.cs",
+              "DocumentMoniker": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Models\\GlobalModel.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceManager\\Models\\GlobalModel.cs",
+              "ToolTip": "D:\\NET_MVC_Project\\PersonalFinanceManager\\PersonalFinanceManager\\Models\\GlobalModel.cs",
+              "RelativeToolTip": "PersonalFinanceManager\\Models\\GlobalModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:52:07.364Z"
             }
           ]
         }
